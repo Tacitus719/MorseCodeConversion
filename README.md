@@ -3,7 +3,7 @@
 
 Program na konverziu textu na kód morseovej abecedy sa riadi <a href="#pravidla">štandardami a pravidlami</a> uvedenými nižšie.</br>
 Pôvodne som konverziu skúšal riešiť pomocou polí <code>Array</code>. Postupne metódou pokusu a omylu som prešiel na <code>Dictionary</code> • kolekcia pre ukladanie dvojíc kľúč-hodnota</br>
-Vyriešené je čítanie konvertovaného textu zo súboru <code>File</code> do <code>textBoxu1</code>, očistenie textu od diakritiky a niektorých bielych zankov a následná konverzia na kód do Morseho kódu do <code>textBoxu2</code>. </br>
+Vyriešené je čítanie konvertovaného textu zo súboru <code>File</code> do <code>textBoxu1</code>, očistenie textu od diakritiky a niektorých bielych znakov a následná konverzia do Morseho kódu do <code>textBoxu2</code>. </br>
 Len pre radosť som spravil ikonu programu :) Blbosti občas potešia ... </br>
 
 <h5>TO DO</h5>
