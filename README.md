@@ -1,4 +1,5 @@
 <H1>MORSEOVA ABECEDA</H1>
+<h2>MorseCodeConversion</h2>
 
 Program na konverziu textu na kód morseovej abecedy sa riadi štandardami a pravidlami uvedenými nižšie.
 Pôvodne som konverziu skúšal riešiť pomocou polí <code>Array</code>. Postupne metódou pokusu a omylu som prešiel na <code>Dictionary</code> • kolekcia pre ukladanie dvojíc kľúč-hodnota
