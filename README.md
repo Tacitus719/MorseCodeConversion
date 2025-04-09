@@ -6,7 +6,13 @@ Pôvodne som konverziu skúšal riešiť pomocou polí <code>Array</code>. Postu
 Vyriešené je čítanie konvertovaného textu zo súboru <code>File</code> do <code>textBoxu1</code>, očistenie textu od diakritiky a niektorých bielych zankov a následná konverzia na kód do Morseho kódu do <code>textBoxu2</code>. </br>
 Len pre radosť som spravil ikonu programu :) Blbosti občas potešia ... </br>
 
-<b>ŠTANDARDY a PRAVIDLÁ</b>
+<h5>TO DO</h5>
+<ul>
+  <li>doriešiť funkčnosť menu <code>File</code> <code>New</code> a <code>Save</code> + výnimky</li>
+  <li>dokončiť v menu <code>Convert</code>  odkazy na konverziu</li>
+  <li>archív v menu <code>View</code> ??? </li>
+</ul>
+<h4><b>ŠTANDARDY a PRAVIDLÁ</b></h4>
 1. Medzinárodný štandard vs. národné varianty
 Morseova abeceda je medzinárodne štandardizovaná a väčšina krajín používa rovnaké kódy pre základné latinské písmená (A-Z) a číslice (0-9). Avšak:
 
