@@ -1,7 +1,7 @@
 <H1>MORSEOVA ABECEDA</H1>
 <h2>MorseCodeConversion</h2>
 
-Program na konverziu textu na kód morseovej abecedy sa riadi štandardami a pravidlami uvedenými nižšie.</br>
+Program na konverziu textu na kód morseovej abecedy sa riadi <a href="#pravidla">štandardami a pravidlami</a> uvedenými nižšie.</br>
 Pôvodne som konverziu skúšal riešiť pomocou polí <code>Array</code>. Postupne metódou pokusu a omylu som prešiel na <code>Dictionary</code> • kolekcia pre ukladanie dvojíc kľúč-hodnota</br>
 Vyriešené je čítanie konvertovaného textu zo súboru <code>File</code> do <code>textBoxu1</code>, očistenie textu od diakritiky a niektorých bielych zankov a následná konverzia na kód do Morseho kódu do <code>textBoxu2</code>. </br>
 Len pre radosť som spravil ikonu programu :) Blbosti občas potešia ... </br>
@@ -12,7 +12,7 @@ Len pre radosť som spravil ikonu programu :) Blbosti občas potešia ... </br>
   <li>dokončiť v menu <code>Convert</code>  odkazy na konverziu</li>
   <li>archív v menu <code>View</code> ??? </li>
 </ul>
-<h4><b>ŠTANDARDY a PRAVIDLÁ</b></h4>
+<h4 id="pravidla">ŠTANDARDY a PRAVIDLÁ</h4>
 1. Medzinárodný štandard vs. národné varianty
 Morseova abeceda je medzinárodne štandardizovaná a väčšina krajín používa rovnaké kódy pre základné latinské písmená (A-Z) a číslice (0-9). Avšak:
 
