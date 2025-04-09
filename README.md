@@ -1,9 +1,10 @@
 <H1>MORSEOVA ABECEDA</H1>
 <h2>MorseCodeConversion</h2>
 
-Program na konverziu textu na kód morseovej abecedy sa riadi štandardami a pravidlami uvedenými nižšie.
-Pôvodne som konverziu skúšal riešiť pomocou polí <code>Array</code>. Postupne metódou pokusu a omylu som prešiel na <code>Dictionary</code> • kolekcia pre ukladanie dvojíc kľúč-hodnota
-Vyriešené je čítanie konvertovaného textu zo súboru <code>File</code> do <code>textBoxu1</code>, očistenie textu od diakritiky a niektorých bielych zankov a následná konverzia na kód do Morseho kódu do <code>textBoxu2</code>. 
+Program na konverziu textu na kód morseovej abecedy sa riadi štandardami a pravidlami uvedenými nižšie.</br>
+Pôvodne som konverziu skúšal riešiť pomocou polí <code>Array</code>. Postupne metódou pokusu a omylu som prešiel na <code>Dictionary</code> • kolekcia pre ukladanie dvojíc kľúč-hodnota</br>
+Vyriešené je čítanie konvertovaného textu zo súboru <code>File</code> do <code>textBoxu1</code>, očistenie textu od diakritiky a niektorých bielych zankov a následná konverzia na kód do Morseho kódu do <code>textBoxu2</code>. </br>
+Len pre radosť som spravil ikonu programu :) Blbosti občas potešia ... </br>
 
 <b>ŠTANDARDY a PRAVIDLÁ</b>
 1. Medzinárodný štandard vs. národné varianty
