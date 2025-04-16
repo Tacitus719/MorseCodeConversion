@@ -8,8 +8,8 @@ Len pre radosť som spravil ikonu programu :) Drobnosti občas potešia ... </br
 
 <h5>TO DO</h5>
 <ul>
-  <li>doriešiť funkčnosť menu <code>File</code> <code>New</code> a <code>Save</code> + výnimky</li>
-  <li>dokončiť v menu <code>Convert</code>  odkazy na konverziu</li>
+  <li>doriešiť funkčnosť menu <code>File</code> <code>New</code>[!!!] a <code>Save</code>[OK] + výnimky[OK]</li>
+  <li>dokončiť v menu <code>Convert</code>  odkazy na konverziu + prehodiť metody z Program.cs do Form.cs</li>
   <li>archív v menu <code>View</code> ??? </li>
 </ul>
 <h4 id="pravidla">ŠTANDARDY a PRAVIDLÁ</h4>
